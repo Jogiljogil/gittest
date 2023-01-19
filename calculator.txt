@@ -4,3 +4,6 @@ a+b
 minus
 a-b
 
+multiply
+a*b
+
