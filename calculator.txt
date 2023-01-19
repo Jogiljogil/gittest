@@ -7,5 +7,3 @@ a-b
 multiply
 a*b
 
-dvide
-a/b
