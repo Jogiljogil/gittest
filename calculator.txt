@@ -1,3 +1,6 @@
 plus
 a+b
 
+minus
+a-b
+
